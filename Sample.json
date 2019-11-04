@@ -1,0 +1,128 @@
+{
+    "Alex": {
+        "Name": "Alex",
+        "     Sex": "       \"M\"",
+        " Age": "41",
+        " Height ": "74",
+        "Weight (lbs)": "170"
+    },
+    "Bert": {
+        "Name": "Bert",
+        "     Sex": "       \"M\"",
+        " Age": "42",
+        " Height ": "68",
+        "Weight (lbs)": "166"
+    },
+    "Carl": {
+        "Name": "Carl",
+        "     Sex": "       \"M\"",
+        " Age": "32",
+        " Height ": "70",
+        "Weight (lbs)": "155"
+    },
+    "Dave": {
+        "Name": "Dave",
+        "     Sex": "       \"M\"",
+        " Age": "39",
+        " Height ": "72",
+        "Weight (lbs)": "167"
+    },
+    "Elly": {
+        "Name": "Elly",
+        "     Sex": "       \"F\"",
+        " Age": "30",
+        " Height ": "66",
+        "Weight (lbs)": "124"
+    },
+    "Fran": {
+        "Name": "Fran",
+        "     Sex": "       \"F\"",
+        " Age": "33",
+        " Height ": "66",
+        "Weight (lbs)": "115"
+    },
+    "Gwen": {
+        "Name": "Gwen",
+        "     Sex": "       \"F\"",
+        " Age": "26",
+        " Height ": "64",
+        "Weight (lbs)": "121"
+    },
+    "Hank": {
+        "Name": "Hank",
+        "     Sex": "       \"M\"",
+        " Age": "30",
+        " Height ": "71",
+        "Weight (lbs)": "158"
+    },
+    "Ivan": {
+        "Name": "Ivan",
+        "     Sex": "       \"M\"",
+        " Age": "53",
+        " Height ": "72",
+        "Weight (lbs)": "175"
+    },
+    "Jake": {
+        "Name": "Jake",
+        "     Sex": "       \"M\"",
+        " Age": "32",
+        " Height ": "69",
+        "Weight (lbs)": "143"
+    },
+    "Kate": {
+        "Name": "Kate",
+        "     Sex": "       \"F\"",
+        " Age": "47",
+        " Height ": "69",
+        "Weight (lbs)": "139"
+    },
+    "Luke": {
+        "Name": "Luke",
+        "     Sex": "       \"M\"",
+        " Age": "34",
+        " Height ": "72",
+        "Weight (lbs)": "163"
+    },
+    "Myra": {
+        "Name": "Myra",
+        "     Sex": "       \"F\"",
+        " Age": "23",
+        " Height ": "62",
+        "Weight (lbs)": "98"
+    },
+    "Neil": {
+        "Name": "Neil",
+        "     Sex": "       \"M\"",
+        " Age": "36",
+        " Height ": "75",
+        "Weight (lbs)": "160"
+    },
+    "Omar": {
+        "Name": "Omar",
+        "     Sex": "       \"M\"",
+        " Age": "38",
+        " Height ": "70",
+        "Weight (lbs)": "145"
+    },
+    "Page": {
+        "Name": "Page",
+        "     Sex": "       \"F\"",
+        " Age": "31",
+        " Height ": "67",
+        "Weight (lbs)": "135"
+    },
+    "Quin": {
+        "Name": "Quin",
+        "     Sex": "       \"M\"",
+        " Age": "29",
+        " Height ": "71",
+        "Weight (lbs)": "176"
+    },
+    "Ruth": {
+        "Name": "Ruth",
+        "     Sex": "       \"F\"",
+        " Age": "28",
+        " Height ": "65",
+        "Weight (lbs)": "131"
+    }
+}
